@@ -30,8 +30,6 @@
 
 ### Procesamiento Lenguaje Natural
 
-### Cómputo en la nube
-
 ### Estadística Avanzada
 *  A5-Proceso Poisson.pdf
 *  A6-Regresión Poisson.pdf
