@@ -3,6 +3,12 @@
 ## Portafolio de Análisis
 
 ### Big Data
+*  Instalación de Spark en AWS.docx
+*  Terminal y Putty.docx
+*  Filezilla o Cyberduck.docx
+*  mi_tiendita.sql
+*  Diagrama relacional.docx
+*  Instalación MySQL
 
 ### Deep Learning
 
@@ -19,8 +25,6 @@
 *  Reporte Actividad Integradora.pdf
 
 ## Protafolio de Implementación
-
-### Big Data
 
 ### Deep Learning
 
