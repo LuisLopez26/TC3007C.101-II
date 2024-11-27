@@ -8,13 +8,15 @@
 *  Filezilla o Cyberduck.docx
 *  mi_tiendita.sql
 *  Diagrama relacional.docx
-*  Instalación MySQL
+*  Instalación MySQL.docx
 
 ### Deep Learning
 
 ### Procesamiento Lenguaje Natural
 
 ### Cómputo en la nube
+*  Evidencia Portafolio Módulo cloud computing.pdf
+*  Diseño de Arquitectura en la Nube.pdf
 
 ### Estadística Avanzada
 *  A1-Regresión no lineal.pdf
