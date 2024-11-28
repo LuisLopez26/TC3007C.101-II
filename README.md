@@ -22,7 +22,7 @@
 *  Actividad 1-Diseño de obras hidráulicas.pdf
 *  Reporte Actividad Integradora.pdf
 
-## Protafolio de Implementación
+## Portafolio de Implementación
 
 ### Módulo 2. Deep Learning
 *  Modulo 2 - 1.-Actividad en Clase - Numpy, Pandas, Matplotlib.pdf
