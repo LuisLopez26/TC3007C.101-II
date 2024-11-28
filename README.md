@@ -18,7 +18,7 @@
 *  Evidencia Portafolio Módulo cloud computing.pdf
 *  Diseño de Arquitectura en la Nube.pdf
 
-### Estadística Avanzada
+### Módulo 5. Estadística 
 *  A1-Regresión no lineal.pdf
 *  A2-Regresión múltiple.pdf
 *  A3-Regresión multiple-Datos atípicos.pdf
@@ -32,7 +32,7 @@
 
 ### Procesamiento Lenguaje Natural
 
-### Estadística Avanzada
+### Módulo 5. Estadística 
 *  A5-Proceso Poisson.pdf
 *  A6-Regresión Poisson.pdf
 *  A7-Regresión logística.pdf
