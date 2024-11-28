@@ -37,6 +37,16 @@
 *  Modulo 2 - 8. Dense + Dropout + Batch Normalization.pdf
 
 ### Módulo 3. Procesamiento de Lenguaje Natural
+*  Tarea 1 - Clasificación de email de spam pre-procesamiento y baselines.ipynb
+*  Tarea 1 - Comparación de modelos spam -Clasificación de email de spam pre-procesamiento y baselines.pdf
+*  Tarea 2 - Investigación de TF-IDF y Laplace Smoothing.pdf
+*  Tarea 3 - Clasificación de sentimientos de películas -Baseline.pdf
+*  Tarea 4-Investigación II de N-gramas.pdf
+*  Chatbot Q&A basado en TF-IDF y cosine similarity.jpg
+*  Word Embeddings Pre-entrenados.pdf
+*  Tarea 6 chap04_multiclass_logistic_regression_A00833321.pdf
+*  Tarea 6 chap09_classification_A00833321.pdf
+*  BERT notebook actividades.pdf
 
 ### Módulo 5. Estadística 
 *  A5-Proceso Poisson.pdf
