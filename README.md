@@ -30,7 +30,7 @@
 *  Modulo 2 - 3.-Actividad en Clase - Student Performance Profiles.ipynb
 *  Modulo 2 - 4.-Actividad en Clase - Weather Forecasting.ipynb
 *  Modulo 2 - 4.-Actividad en Clase - Weather Forecasting.pdf
-*  Modulo 2 - 5.- Investigate and Present.pdf
+*  Modulo 2 - 5.- Investigate and Present.pptx
 *  Modulo 2 - 6.- Practica Examen Conceptos.jpg
 *  Modulo 2 - 7.- Feature Selection.pdf
 *  Modulo 2 - 8. Dense + Dropout + Batch Normalization.ipynb
