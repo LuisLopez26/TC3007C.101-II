@@ -10,10 +10,6 @@
 *  Diagrama relacional.docx
 *  Instalación MySQL.docx
 
-### Deep Learning
-
-### Procesamiento Lenguaje Natural
-
 ### Módulo 4. Cómputo en la Nube
 *  Evidencia Portafolio Módulo cloud computing.pdf
 *  Diseño de Arquitectura en la Nube.pdf
@@ -28,9 +24,9 @@
 
 ## Protafolio de Implementación
 
-### Deep Learning
+### Módulo 2. Deep Learning
 
-### Procesamiento Lenguaje Natural
+### Módulo 3. Procesamiento de Lenguaje Natural
 
 ### Módulo 5. Estadística 
 *  A5-Proceso Poisson.pdf
