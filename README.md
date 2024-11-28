@@ -56,5 +56,5 @@
 *  Actividad Integradora 2.pdf
 
 ## Reporte de Reto
-
+*  Reporte Reto Equipo 2
 
