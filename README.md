@@ -46,6 +46,7 @@
 *  Word Embeddings Pre-entrenados.pdf
 *  Tarea 6 chap04_multiclass_logistic_regression_A00833321.pdf
 *  Tarea 6 chap09_classification_A00833321.pdf
+*  Quiz Medio Término de NLP.png
 *  BERT notebook actividades.pdf
 
 ### Módulo 5. Estadística 
